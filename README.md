@@ -7,12 +7,12 @@
 # Indice
 <br/>
 
-- <a href="#funcionalidades">Funcionalidades do Projeto</a>
+- <a href="#funcionalidades">Funcionalidades do projeto</a>
 - <a href="#layout">Layout</a>
 - <a href="#demonstração">Demonstração</a>
-- <a href="#rodar">Funcionalidades do Projeto</a>
-- <a href="#tecnologias">Funcionalidades do Projeto</a>
-- <a href="#passos">Funcionalidades do Projeto</a>
+- <a href="#rodar">Como rodar o projeto</a>
+- <a href="#tecnologias">Tecnologias utilizadas</a>
+- <a href="#passos">Próximos passos</a>
 
 
 ## Funcionalidades
