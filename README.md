@@ -1,11 +1,11 @@
 ## Interactive Rating Component
-<br/>
+
 
 #### Projeto faz parte dos desafios do front-end-mentor
 
 
 # Indice
-<br/>
+
 
 - <a href="#funcionalidades">Funcionalidades do projeto</a>
 - <a href="#layout">Layout</a>
@@ -14,6 +14,7 @@
 - <a href="#tecnologias">Tecnologias utilizadas</a>
 - <a href="#passos">Próximos passos</a>
 
+<br/>
 
 ## Funcionalidades
 
