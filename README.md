@@ -17,26 +17,33 @@
 
 ## Funcionalidades
 
+
 - [x] Selecionar nota Desejada.
 - [x] Enviar Nota.
 - [x] Tela informando nota selecionada.
 - [x] Agradecimento por participar da Pesquisa.
 
-## Layout
 <br/>
+
+## Layout
+
 
 ![initial app](./public/appscore.png)
 ![hover no rating](./public/appscorehover.png)
 ![focus no rating](./public/appscorefocus.png)
 ![finish app](./public/appfinish.png)
 
-## Demonstração
 <br/>
+
+## Demonstração
+
 
 [Acesse o app](https://interactive-ratingg-component.netlify.app/)
 
-## Tecnologias Utilizadas
 <br/>
+
+## Tecnologias Utilizadas
+
 
 1. [React](https://react.dev/)
 ## Como rodar este projeto
@@ -57,6 +64,7 @@ $npm install
 $npm start
 
 ```
+<br/>
 
 ## Próximos passos
 
