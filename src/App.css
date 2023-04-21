@@ -17,7 +17,7 @@
 }
 
 body {
-  background-color: red;
+  background-color: var(--bg);
   font-family: 'Overpass', sans-serif;
   color: var(--color-primary);
 }
